@@ -32,9 +32,9 @@ public class Persona {
         return saludo + " Bien gracias!";
     }
 
-    public void dormir(int horas) {
-        System.out.println("La persona ha dormido " + horas + " horas.");
-    }
+    // private void dormir(int horas) {
+    //    System.out.println("La persona ha dormido " + horas + " horas.");
+    // }
 
     public void mostrarInformacion() {
         System.out.println("Información de la persona:");
